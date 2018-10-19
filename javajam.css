@@ -1,0 +1,42 @@
+
+*{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px
+
+}
+
+body{
+font-family: sans-serif;
+	    color: #221181;
+	background-color: #FCEBB6
+
+	
+	
+}
+
+h1{
+
+	background-color: D2B48C;
+    text-align: center;
+    border-bottom: 1px solid #555;
+    border-bottom: none;
+
+
+}
+
+h3{
+	text-align: center;
+
+}
+
+footer{
+
+	background-color: D2B48C;
+    color: #191970;
+    text-align: center;
+    border-bottom: 1px solid #555;
+    border-bottom: none;
+
+}
